@@ -14,3 +14,10 @@ This is a simple desktop-based To-Do List project developed using Python and Tki
 
 ## Author
 Keerthi
+## How to Run the Project
+
+1. Install Python
+2. Download the project files
+3. Run the following command:
+
+python todo list.py
